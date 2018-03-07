@@ -17,7 +17,6 @@ With the added features you can edit:
 
 #### Colors:
 - Header Text Color
-- Background Color
 
 #### Menus:
 - Top menu
